@@ -40,3 +40,7 @@ Saliency Map Generation: Generate saliency maps for selected DNA sequences to in
 
 ## Contributing
 Contributions to this project are welcome. Please open an issue to discuss proposed changes or submit a pull request.
+
+## Reference
+Zou, J., Huss, M., Abid, A. et al. A primer on deep learning in genomics. Nat Genet 51, 12–18 (2019). https://doi.org/10.1038/s41588-018-0295-5
+
